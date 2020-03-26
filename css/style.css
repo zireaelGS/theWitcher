@@ -338,6 +338,7 @@
          background-color: #9D2929;
          width: 250px;
          padding-bottom: 40px;
+         z-index: 1;
      }
      .header-active{
          display: flex;
